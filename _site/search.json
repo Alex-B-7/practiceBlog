@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "practiceBlog for Week of July 19th",
-    "section": "",
-    "text": "July 19th\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 19, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nJuly 18th\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 18, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nJuly 17th\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 17, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nJuly 16th\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 16, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nJuly 15th\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 15, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "July 15th",
-    "section": "",
-    "text": "Made some progress in the R Packages book"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this blog"
-  },
-  {
-    "objectID": "posts/july17/July17.html",
-    "href": "posts/july17/July17.html",
-    "title": "July 17th",
-    "section": "",
-    "text": "Continued working in HappyGit"
-  },
-  {
-    "objectID": "posts/july16/July16.html",
-    "href": "posts/july16/July16.html",
-    "title": "July 16th",
-    "section": "",
-    "text": "Scrapped the packages and projects\nStarted working in HappyGit"
-  },
-  {
-    "objectID": "posts/july15/July15.html",
-    "href": "posts/july15/July15.html",
-    "title": "July 15th",
-    "section": "",
-    "text": "Made some progress in the R Packages book"
   },
   {
     "objectID": "posts/july18/July18.html",
@@ -56,10 +14,38 @@
     "text": "Dropped the packages for now\nStarted experimenting with quartos"
   },
   {
+    "objectID": "posts/july17/July17.html",
+    "href": "posts/july17/July17.html",
+    "title": "July 17th",
+    "section": "",
+    "text": "Continued working in HappyGit"
+  },
+  {
+    "objectID": "posts/july15/July15.html",
+    "href": "posts/july15/July15.html",
+    "title": "July 15th",
+    "section": "",
+    "text": "Made some progress in the R Packages book"
+  },
+  {
     "objectID": "posts/july19/July19.html",
     "href": "posts/july19/July19.html",
     "title": "July 19th",
     "section": "",
     "text": "Created blog, website, project, and book with quarto\nBook is the best for replicating happyGit"
+  },
+  {
+    "objectID": "posts/july16/July16.html",
+    "href": "posts/july16/July16.html",
+    "title": "July 16th",
+    "section": "",
+    "text": "Scrapped the packages and projects\nStarted working in HappyGit"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "practiceBlog for Week of July 19th",
+    "section": "",
+    "text": "July 19th\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 19, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nJuly 18th\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 18, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nJuly 17th\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 17, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nJuly 16th\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 16, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nJuly 15th\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 15, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\nNo matching items"
   }
 ]

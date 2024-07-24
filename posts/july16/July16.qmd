@@ -9,3 +9,5 @@ image: "https://quarto.org/docs/manuscripts/images/article-content.png"
 Scrapped the packages and projects
 
 Started working in HappyGit
+
+Testing new line of code from R
