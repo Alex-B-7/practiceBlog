@@ -8,6 +8,6 @@ image: "https://quarto.org/docs/manuscripts/images/article-content.png"
 
 Scrapped the packages and projects
 
-Started working in HappyGit
+Started working in HappyGit: did anything change?
 
 Testing new line of code from R

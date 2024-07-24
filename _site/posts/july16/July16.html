@@ -158,6 +158,7 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Scrapped the packages and projects</p>
 <p>Started working in&nbsp;HappyGit</p>
+<p>Testing new line of code from R</p>
 
 
 
@@ -243,7 +244,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/Alex-B-7\.github\.io\/practiceBlog\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
