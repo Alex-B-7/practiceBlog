@@ -1,0 +1,11 @@
+---
+title: "July 16th"
+author: "Alex Boyle"
+date: "2024-07-16"
+categories: [news, code, analysis]
+image: "https://quarto.org/docs/manuscripts/images/article-content.png"
+---
+
+Scrapped the packages and projects
+
+Started working in HappyGit

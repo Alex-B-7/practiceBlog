@@ -1,0 +1,11 @@
+---
+title: "July 19th"
+author: "Alex Boyle"
+date: "2024-07-19"
+categories: [news, code, analysis]
+image: "https://happygitwithr.com/img/pat-kills-both-birds.jpeg"
+---
+
+Created blog, website, project, and book with quarto
+
+Book is the best for replicating happyGit

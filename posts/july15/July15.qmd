@@ -1,0 +1,9 @@
+---
+title: "July 15th"
+author: "Alex Boyle"
+date: "2024-07-15"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+Made some progress in the R Packages book

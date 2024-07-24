@@ -1,0 +1,11 @@
+---
+title: "July 17th"
+author: "Alex Boyle"
+date: "2024-07-17"
+categories: [news, code, analysis]
+image: "thumbnail.jpg"
+---
+
+Continued working in HappyGit
+
+![](thumbnail.jpg)

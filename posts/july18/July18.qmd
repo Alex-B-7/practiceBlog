@@ -1,0 +1,11 @@
+---
+title: "July 18th"
+author: "Alex Boyle"
+date: "2024-07-18"
+categories: [news, code, analysis]
+image: "https://quarto.org/docs/tools/images/jupyterlab-extension.png"
+---
+
+Dropped the packages for now
+
+Started experimenting with quartos
